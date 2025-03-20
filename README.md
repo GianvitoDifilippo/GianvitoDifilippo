@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Gianvito! 👋</h1>
 
-I'm a .NET software developer from a nice little town in Apulia, Italy.
+I'm a .NET software developer from a nice little town in Apulia (Puglia), Italy.
 I love building things, learning new stuff, and sharing what I know.
 
 ### A little about me:
