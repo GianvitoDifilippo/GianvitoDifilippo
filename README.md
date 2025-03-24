@@ -5,7 +5,7 @@ I love building things, learning new stuff, and sharing what I know.
 
 ### A little about me:
 
-- 👨‍💻 I'm just getting started with OSS development! Check out [DTasks](https://github.com/GianvitoDifilippo/DTasks), my first serious open-source .NET project!
+- 👨‍💻 I'm just getting started with OSS development! Check out [DTasks](https://github.com/gianvitodifilippo/DTasks), my first serious open-source .NET project!
 - 👨‍🔬 I used to do research in control engineering. Some of my past work is on [ResearchGate](https://www.researchgate.net/profile/Gianvito-Difilippo).
 - 🚴‍♂️ I'm all about fitness and a healthy lifestyle, but I also love biking. If you're into that, feel free to connect with me on [Strava](https://www.strava.com/athletes/107821882)!
 - 🎸 When I’m not coding or biking, I love to [play the guitar](https://gianvitodifilippo.github.io/guitar). I perform in a quintet, and we're working on our debut record.
